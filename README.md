@@ -8,13 +8,6 @@ Version: 2.0.0
 
 ## Features
 
-### Customer number
-
-This module adds a new customer attribute "customer_number" to Magento. This attribute can be used with 
-the AdvancedLogin features.
-
-The attribute will be shown in the backend customer grid by default.
-
 ### Enhanced login process
 
 By default, Magento only allows login via email and password.
